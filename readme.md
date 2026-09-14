@@ -1,3 +1,3 @@
 # Belajar git
 
-Project untuk mempelajari dasar penggunaan git
+Project untuk mempelajari dasar penggunaan git perubahan git
